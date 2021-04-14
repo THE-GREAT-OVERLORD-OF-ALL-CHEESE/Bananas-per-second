@@ -1,0 +1,25 @@
+{
+	"measurementDistUnits":[
+		{"name":"Meters","conversion":1.0,"label":"m"},
+		{"name":"NautMiles","conversion":0.000539957,"label":"nm"},
+		{"name":"Feet","conversion":3.28084,"label":"ft"},
+		{"name":"Miles","conversion":0.000621371,"label":"mi"},
+		{"name":"Bananas","conversion":5.618,"label":"bns"},
+		{"name":"Ierdnas","conversion":0.5988024,"label":"i"}
+	],
+	"measurementAltUnits":[
+		{"name":"Meters","conversion":1.0,"label":"m"},
+		{"name":"Feet","conversion":3.28084,"label":"ft"},
+		{"name":"Bananas","conversion":5.618,"label":"bns"},
+		{"name":"Ierdnas","conversion":0.5988024,"label":"i"}
+	],
+	"measurementSpeedUnits":[
+		{"name":"MetersPerSecond","conversion":1.0,"label":"m/s"},
+		{"name":"KilometersPerHour","conversion":3.6,"label":"KPH"},
+		{"name":"Knots","conversion":1.94384,"label":"kt"},
+		{"name":"MilesPerHour","conversion":2.23694,"label":"MPH"},
+		{"name":"FeetPerSecond","conversion":3.28084,"label":"ft/s"},
+		{"name":"BananasPerSecond","conversion":5.618,"label":"BPS"},
+		{"name":"IerdnasPerSecond","conversion":0.5988024,"label":"I/S"}
+	]
+}
